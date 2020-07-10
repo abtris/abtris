@@ -19,6 +19,8 @@ jobs:
       - run: go version
 
       - name: Update README
+        env:
+          BLOG_URL: ${{ secrets.BLOG_URL }}
         run: |-
           go run main.go > README.md
           cat README.md

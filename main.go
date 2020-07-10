@@ -10,14 +10,16 @@ import (
 	"text/template"
 )
 
+// Item type for RSS
 type Item struct {
 	Title   string `xml:"title"`
 	Link    string `xml:"link"`
 	Desc    string `xml:"description"`
-	Guid    string `xml:"guid"`
+	GUID    string `xml:"guid"`
 	PubDate string `xml:"pubDate"`
 }
 
+// Channel type for RSS
 type Channel struct {
 	Title string `xml:"title"`
 	Link  string `xml:"link"`
@@ -25,6 +27,7 @@ type Channel struct {
 	Items []Item `xml:"item"`
 }
 
+// Rss type for RSS as root
 type Rss struct {
 	Channel Channel `xml:"channel"`
 }
@@ -58,7 +61,8 @@ func main() {
 	}
 
 	text := string(content)
-	rssItems := readFeed("https://www.prskavec.net/post/index.xml")
+	blogURL := os.Getenv("BLOG_URL")
+	rssItems := readFeed(blogURL)
 	data := struct {
 		Title string
 		Items []string
