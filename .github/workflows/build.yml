@@ -20,7 +20,7 @@ jobs:
 
       - name: Update README
         run: |-
-          go run main.go
+          go run main.go > README.md
           cat README.md
       - name: Commit and push if README changed
         run: |-
