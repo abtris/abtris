@@ -1,0 +1,31 @@
+name: Build README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "32 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Set up Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: "^1.14.3"
+      - run: go version
+
+      - name: Update README
+        run: |-
+          go run main.go
+          cat README.md
+      - name: Commit and push if README changed
+        run: |-
+          git diff
+          git config --global user.email "readme-bot@example.com"
+          git config --global user.name "README-bot"
+          git diff --quiet || (git add README.md && git commit -m "Updated README")
+          git push
