@@ -10,6 +10,7 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 ### Last blog posts
 
+- [Grafana dashboards and Jsonnet](https://www.prskavec.net/post/grafana-jsonnet/)
 - [Updating README in Github personal repository](https://www.prskavec.net/post/github-personal-repo/)
 - [Running Terratest in CircleCI](https://www.prskavec.net/post/terratest-circleci/)
 - [New start in 2020](https://www.prskavec.net/post/getting-started/)
