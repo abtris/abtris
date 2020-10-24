@@ -10,6 +10,7 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 ### Last blog posts
 
+- [The Future of Continuous Integration Engines](https://www.prskavec.net/post/the-future-of-continuous-integration-engines/)
 - [Grafana dashboards and Jsonnet](https://www.prskavec.net/post/grafana-jsonnet/)
 - [Updating README in Github personal repository](https://www.prskavec.net/post/github-personal-repo/)
 - [Running Terratest in CircleCI](https://www.prskavec.net/post/terratest-circleci/)
