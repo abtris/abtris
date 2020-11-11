@@ -10,7 +10,6 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 ### Last blog posts
 
-- [Template](https://www.prskavec.net/post/template/)
 - [How to make the perfect Grafana dashboard?](https://www.prskavec.net/post/how-to-make-perfect-grafana-dashboard/)
 - [The Future of Continuous Integration Engines](https://www.prskavec.net/post/the-future-of-continuous-integration-engines/)
 - [Grafana dashboards and Jsonnet](https://www.prskavec.net/post/grafana-jsonnet/)
