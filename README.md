@@ -4,7 +4,7 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 [![Homepage][web-image]](https://www.prskavec.net/)
 [![Blog in Czech][web-image-2]](https://blog.prskavec.net/)
-[![Twitter Follow][twitter-image]](https://twitter.com/robinpokorny)
+[![Twitter Follow][twitter-image]](https://twitter.com/abtris)
 
 > *I’m really passionate about site reliability engineering. I think the biggest problem for current companies is doesn't have SRE engineers if they need it. I’m helping to find solutions for my company and others who can listen*
 
