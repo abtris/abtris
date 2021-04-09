@@ -20,7 +20,7 @@ jobs:
 
       - name: Update README
         env:
-          BLOG_URL: ${{ secrets.BLOG_URL }}
+          BLOG_URLS: ${{ secrets.BLOG_URLS }}
         run: |-
           go run main.go > README.md
           cat README.md
