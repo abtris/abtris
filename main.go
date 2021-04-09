@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strings"
 	"text/template"
 )
 
@@ -19,11 +20,20 @@ type Item struct {
 	PubDate string `xml:"pubDate"`
 }
 
+type Blog struct {
+	Title string
+	Url string
+	Language string
+	Limit int
+	Items []string
+}
+
 // Channel type for RSS
 type Channel struct {
 	Title string `xml:"title"`
 	Link  string `xml:"link"`
 	Desc  string `xml:"description"`
+	Language string `xml:"language"`
 	Items []Item `xml:"item"`
 }
 
@@ -32,7 +42,7 @@ type Rss struct {
 	Channel Channel `xml:"channel"`
 }
 
-func readFeed(url string) []string {
+func readFeed(url string) ([]string, string, string) {
 	resp, err := http.Get(url)
 	if err != nil {
 		log.Fatal(err)
@@ -51,7 +61,14 @@ func readFeed(url string) []string {
 	for _, item := range rss.Channel.Items {
 		output = append(output, fmt.Sprintf("[%s](%s)\n", item.Title, item.Link))
 	}
-	return output
+	return output, rss.Channel.Title, rss.Channel.Language
+}
+
+func getFirst(slices []string, limit int) []string {
+	if len(slices) > limit {
+		return slices[:limit]
+	}
+	return slices
 }
 
 func main() {
@@ -61,14 +78,21 @@ func main() {
 	}
 
 	text := string(content)
-	blogURL := os.Getenv("BLOG_URL")
-	rssItems := readFeed(blogURL)
-	data := struct {
-		Title string
-		Items []string
-	}{
-		Title: "Last blog posts",
-		Items: rssItems,
+	blogURLS := os.Getenv("BLOG_URLS")
+
+	urls := strings.Split(blogURLS,",")
+
+	data := []Blog{}
+
+	for _, url := range urls {
+		rssItems, title, lang := readFeed(url)
+		blog := Blog{
+			Title: title,
+			Url: url,
+			Language: lang,
+			Items: getFirst(rssItems, 10),
+		}
+		data = append(data, blog)
 	}
 
 	t, err := template.New("readme").Parse(text)
