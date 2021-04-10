@@ -21,6 +21,7 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 
 ### Prskavčí blog in cs-CZ
+- [Go Embed a jak ho použít](https://blog.prskavec.net/blog/2021/04/go-embed-a-jak-ho-pou%C5%BE%C3%ADt/)
 - [Site Reliable Engineering (SRE) a DevOPS](https://blog.prskavec.net/blog/2021/02/site-reliable-engineering-sre-a-devops/)
 - [FOSDEM 6-7.2.2021, online](https://blog.prskavec.net/blog/2021/02/fosdem-6-7.2.2021-online/)
 - [Hashicorp Waypoint](https://blog.prskavec.net/blog/2020/10/hashicorp-waypoint/)
@@ -30,7 +31,6 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 - [Moduly v jazyku Go](https://blog.prskavec.net/blog/2019/02/moduly-v-jazyku-go/)
 - [Hacking Drone s frameworkem GoBot a knihovnou GoCV (OpenCV)](https://blog.prskavec.net/blog/2018/09/hacking-drone-s-frameworkem-gobot-a-knihovnou-gocv-opencv/)
 - [Recenze knihy: The Site Reliability Workbook](https://blog.prskavec.net/blog/2018/07/recenze-knihy-the-site-reliability-workbook/)
-- [Velocity Konference 2018 v San Jose](https://blog.prskavec.net/blog/2018/06/velocity-konference-2018-v-san-jose/)
 
 
 
