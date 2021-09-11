@@ -21,6 +21,8 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 
 ### Prskavčí blog in cs-CZ
+- [Příspěvky](https://blog.prskavec.net/posts/)
+- [Nahraďte Docker Desktop pomocí programu Podman na MacOS](https://blog.prskavec.net/blog/2021/09/nahra%C4%8Fte-docker-desktop-pomoc%C3%AD-programu-podman-na-macos/)
 - [Software Development versus Software Engineering](https://blog.prskavec.net/blog/2021/06/software-development-versus-software-engineering/)
 - [Go Embed a jak ho použít](https://blog.prskavec.net/blog/2021/04/go-embed-a-jak-ho-pou%C5%BE%C3%ADt/)
 - [Site Reliable Engineering (SRE) a DevOPS](https://blog.prskavec.net/blog/2021/02/site-reliable-engineering-sre-a-devops/)
@@ -29,8 +31,6 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 - [SRECon EMEA 2019, Dublin](https://blog.prskavec.net/blog/2019/10/srecon-emea-2019-dublin/)
 - [Jaká je cesta k produkčnímu kódu?](https://blog.prskavec.net/blog/2019/08/jak%C3%A1-je-cesta-k-produk%C4%8Dn%C3%ADmu-k%C3%B3du/)
 - [Kubecon EU 2019 - Barcelona](https://blog.prskavec.net/blog/2019/05/kubecon-eu-2019-barcelona/)
-- [Moduly v jazyku Go](https://blog.prskavec.net/blog/2019/02/moduly-v-jazyku-go/)
-- [Hacking Drone s frameworkem GoBot a knihovnou GoCV (OpenCV)](https://blog.prskavec.net/blog/2018/09/hacking-drone-s-frameworkem-gobot-a-knihovnou-gocv-opencv/)
 
 
 
