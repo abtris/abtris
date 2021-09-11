@@ -10,18 +10,7 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 
 
-### Posts on Prskavec.Net in en-us
-- [How to make the perfect Grafana dashboard?](https://www.prskavec.net/post/how-to-make-perfect-grafana-dashboard/)
-- [The Future of Continuous Integration Engines](https://www.prskavec.net/post/the-future-of-continuous-integration-engines/)
-- [Grafana dashboards and Jsonnet](https://www.prskavec.net/post/grafana-jsonnet/)
-- [Updating README in Github personal repository](https://www.prskavec.net/post/github-personal-repo/)
-- [Running Terratest in CircleCI](https://www.prskavec.net/post/terratest-circleci/)
-- [New start in 2020](https://www.prskavec.net/post/getting-started/)
-
-
-
-### Prskavčí blog in cs-CZ
-- [Příspěvky](https://blog.prskavec.net/posts/)
+### Posts on Prskavčí blog in cs-CZ
 - [Nahraďte Docker Desktop pomocí programu Podman na MacOS](https://blog.prskavec.net/blog/2021/09/nahra%C4%8Fte-docker-desktop-pomoc%C3%AD-programu-podman-na-macos/)
 - [Software Development versus Software Engineering](https://blog.prskavec.net/blog/2021/06/software-development-versus-software-engineering/)
 - [Go Embed a jak ho použít](https://blog.prskavec.net/blog/2021/04/go-embed-a-jak-ho-pou%C5%BE%C3%ADt/)
@@ -31,6 +20,17 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 - [SRECon EMEA 2019, Dublin](https://blog.prskavec.net/blog/2019/10/srecon-emea-2019-dublin/)
 - [Jaká je cesta k produkčnímu kódu?](https://blog.prskavec.net/blog/2019/08/jak%C3%A1-je-cesta-k-produk%C4%8Dn%C3%ADmu-k%C3%B3du/)
 - [Kubecon EU 2019 - Barcelona](https://blog.prskavec.net/blog/2019/05/kubecon-eu-2019-barcelona/)
+- [Moduly v jazyku Go](https://blog.prskavec.net/blog/2019/02/moduly-v-jazyku-go/)
+
+
+
+### Posts on Prskavec.Net in en-us
+- [How to make the perfect Grafana dashboard?](https://www.prskavec.net/post/how-to-make-perfect-grafana-dashboard/)
+- [The Future of Continuous Integration Engines](https://www.prskavec.net/post/the-future-of-continuous-integration-engines/)
+- [Grafana dashboards and Jsonnet](https://www.prskavec.net/post/grafana-jsonnet/)
+- [Updating README in Github personal repository](https://www.prskavec.net/post/github-personal-repo/)
+- [Running Terratest in CircleCI](https://www.prskavec.net/post/terratest-circleci/)
+- [New start in 2020](https://www.prskavec.net/post/getting-started/)
 
 
 
