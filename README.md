@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Ladislav Prskavec**, a Software Engineer based in Prague
+I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 [![Homepage][web-image]](https://www.prskavec.net/)
 [![Blog in Czech][web-image-2]](https://blog.prskavec.net/)
