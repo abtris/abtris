@@ -11,6 +11,9 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 
 ### Posts on Prskavčí blog in cs-CZ
+- [GRPC s Buf](https://blog.prskavec.net/blog/2022/12/grpc-s-buf/)
+- [Pipelines as Code](https://blog.prskavec.net/blog/2022/11/pipelines-as-code/)
+- [Webexpo 10-12.6.2022](https://blog.prskavec.net/blog/2022/06/webexpo-10-12.6.2022/)
 - [Nahraďte Docker Desktop pomocí programu Podman na MacOS](https://blog.prskavec.net/blog/2021/09/nahra%C4%8Fte-docker-desktop-pomoc%C3%AD-programu-podman-na-macos/)
 - [Software Development versus Software Engineering](https://blog.prskavec.net/blog/2021/06/software-development-versus-software-engineering/)
 - [Go Embed a jak ho použít](https://blog.prskavec.net/blog/2021/04/go-embed-a-jak-ho-pou%C5%BE%C3%ADt/)
@@ -18,13 +21,11 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 - [FOSDEM 6-7.2.2021, online](https://blog.prskavec.net/blog/2021/02/fosdem-6-7.2.2021-online/)
 - [Hashicorp Waypoint](https://blog.prskavec.net/blog/2020/10/hashicorp-waypoint/)
 - [SRECon EMEA 2019, Dublin](https://blog.prskavec.net/blog/2019/10/srecon-emea-2019-dublin/)
-- [Jaká je cesta k produkčnímu kódu?](https://blog.prskavec.net/blog/2019/08/jak%C3%A1-je-cesta-k-produk%C4%8Dn%C3%ADmu-k%C3%B3du/)
-- [Kubecon EU 2019 - Barcelona](https://blog.prskavec.net/blog/2019/05/kubecon-eu-2019-barcelona/)
-- [Moduly v jazyku Go](https://blog.prskavec.net/blog/2019/02/moduly-v-jazyku-go/)
 
 
 
 ### Posts on Prskavec.Net in en-us
+- [Pipelines as Code](https://www.prskavec.net/post/pipelines_as_code/)
 - [How to make the perfect Grafana dashboard?](https://www.prskavec.net/post/how-to-make-perfect-grafana-dashboard/)
 - [The Future of Continuous Integration Engines](https://www.prskavec.net/post/the-future-of-continuous-integration-engines/)
 - [Grafana dashboards and Jsonnet](https://www.prskavec.net/post/grafana-jsonnet/)
