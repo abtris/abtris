@@ -11,6 +11,7 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 
 ### Posts on Prskavčí blog in cs-CZ
+- [You build it, you run it](https://blog.prskavec.net/blog/2023/01/you-build-it-you-run-it/)
 - [GRPC s Buf](https://blog.prskavec.net/blog/2022/12/grpc-s-buf/)
 - [Pipelines as Code](https://blog.prskavec.net/blog/2022/11/pipelines-as-code/)
 - [Webexpo 10-12.6.2022](https://blog.prskavec.net/blog/2022/06/webexpo-10-12.6.2022/)
@@ -20,7 +21,6 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 - [Site Reliable Engineering (SRE) a DevOPS](https://blog.prskavec.net/blog/2021/02/site-reliable-engineering-sre-a-devops/)
 - [FOSDEM 6-7.2.2021, online](https://blog.prskavec.net/blog/2021/02/fosdem-6-7.2.2021-online/)
 - [Hashicorp Waypoint](https://blog.prskavec.net/blog/2020/10/hashicorp-waypoint/)
-- [SRECon EMEA 2019, Dublin](https://blog.prskavec.net/blog/2019/10/srecon-emea-2019-dublin/)
 
 
 
