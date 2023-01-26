@@ -11,6 +11,7 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 
 
 ### Posts on Prskavčí blog in cs-CZ
+- [Pozor na základní nastavení http klienta v Go (a nejen tam)](https://blog.prskavec.net/blog/2023/01/pozor-na-z%C3%A1kladn%C3%AD-nastaven%C3%AD-http-klienta-v-go-a-nejen-tam/)
 - [You build it, you run it](https://blog.prskavec.net/blog/2023/01/you-build-it-you-run-it/)
 - [GRPC s Buf](https://blog.prskavec.net/blog/2022/12/grpc-s-buf/)
 - [Pipelines as Code](https://blog.prskavec.net/blog/2022/11/pipelines-as-code/)
@@ -20,11 +21,11 @@ I am **Ladislav Prskavec**, a SRE Engineer based in Prague
 - [Go Embed a jak ho použít](https://blog.prskavec.net/blog/2021/04/go-embed-a-jak-ho-pou%C5%BE%C3%ADt/)
 - [Site Reliable Engineering (SRE) a DevOPS](https://blog.prskavec.net/blog/2021/02/site-reliable-engineering-sre-a-devops/)
 - [FOSDEM 6-7.2.2021, online](https://blog.prskavec.net/blog/2021/02/fosdem-6-7.2.2021-online/)
-- [Hashicorp Waypoint](https://blog.prskavec.net/blog/2020/10/hashicorp-waypoint/)
 
 
 
 ### Posts on Prskavec.Net in en-us
+- [Watch out for basic HTTP client settings in Go](https://www.prskavec.net/post/watch_out_for_basic_http_client_settings_in_go/)
 - [Pipelines as Code](https://www.prskavec.net/post/pipelines_as_code/)
 - [How to make the perfect Grafana dashboard?](https://www.prskavec.net/post/how-to-make-perfect-grafana-dashboard/)
 - [The Future of Continuous Integration Engines](https://www.prskavec.net/post/the-future-of-continuous-integration-engines/)
