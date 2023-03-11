@@ -13,6 +13,7 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 
 
 ### Posts on Prskavčí blog in cs-CZ
+- [Workflow Engines - Temporal.io](https://blog.prskavec.net/blog/2023/03/workflow-engines-temporal.io/)
 - [Pozor na základní nastavení http klienta v Go (a nejen tam)](https://blog.prskavec.net/blog/2023/01/pozor-na-z%C3%A1kladn%C3%AD-nastaven%C3%AD-http-klienta-v-go-a-nejen-tam/)
 - [You build it, you run it](https://blog.prskavec.net/blog/2023/01/you-build-it-you-run-it/)
 - [GRPC s Buf](https://blog.prskavec.net/blog/2022/12/grpc-s-buf/)
@@ -22,7 +23,6 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 - [Software Development versus Software Engineering](https://blog.prskavec.net/blog/2021/06/software-development-versus-software-engineering/)
 - [Go Embed a jak ho použít](https://blog.prskavec.net/blog/2021/04/go-embed-a-jak-ho-pou%C5%BE%C3%ADt/)
 - [Site Reliable Engineering (SRE) a DevOPS](https://blog.prskavec.net/blog/2021/02/site-reliable-engineering-sre-a-devops/)
-- [FOSDEM 6-7.2.2021, online](https://blog.prskavec.net/blog/2021/02/fosdem-6-7.2.2021-online/)
 
 
 
