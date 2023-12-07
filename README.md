@@ -27,6 +27,7 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 
 
 ### Posts on Prskavec.Net in en-us
+- [OpenTelemetry and Go Gin Framework](https://www.prskavec.net/post/otel-gin-go/)
 - [Watch out for basic HTTP client settings in Go](https://www.prskavec.net/post/watch_out_for_basic_http_client_settings_in_go/)
 - [Pipelines as Code](https://www.prskavec.net/post/pipelines_as_code/)
 - [How to make the perfect Grafana dashboard?](https://www.prskavec.net/post/how-to-make-perfect-grafana-dashboard/)
