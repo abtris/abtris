@@ -27,6 +27,8 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 
 
 ### Posts on Prskavec.Net in en-us
+- [Build nice terminal UI with Bubble Tea](https://www.prskavec.net/post/bubbletea/)
+- [Exploring Terramate - A Solution to Terraform Orchestration Challenges](https://www.prskavec.net/post/exploring-terramate/)
 - [OpenTelemetry and Go Gin Framework](https://www.prskavec.net/post/otel-gin-go/)
 - [Watch out for basic HTTP client settings in Go](https://www.prskavec.net/post/watch_out_for_basic_http_client_settings_in_go/)
 - [Pipelines as Code](https://www.prskavec.net/post/pipelines_as_code/)
@@ -35,7 +37,6 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 - [Grafana dashboards and Jsonnet](https://www.prskavec.net/post/grafana-jsonnet/)
 - [Updating README in Github personal repository](https://www.prskavec.net/post/github-personal-repo/)
 - [Running Terratest in CircleCI](https://www.prskavec.net/post/terratest-circleci/)
-- [New start in 2020](https://www.prskavec.net/post/getting-started/)
 
 
 
