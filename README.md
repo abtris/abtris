@@ -26,7 +26,7 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 
 
 
-### Posts on Prskavec.Net in en-us
+### Posts on Prskavec.Net in en
 - [Schema-First Telemetry in Go: A New Approach to Observability](https://www.prskavec.net/post/schema_first_telemetry/)
 - [Build nice terminal UI with Bubble Tea](https://www.prskavec.net/post/bubbletea/)
 - [Exploring Terramate - A Solution to Terraform Orchestration Challenges](https://www.prskavec.net/post/exploring-terramate/)
