@@ -7,9 +7,12 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strconv"
 	"strings"
 	"text/template"
 )
+
+const defaultLimit = 10
 
 // Item type for RSS
 type Item struct {
@@ -71,6 +74,25 @@ func getFirst(slices []string, limit int) []string {
 	return slices
 }
 
+func parseLimits(raw string, n int) []int {
+	limits := make([]int, n)
+	for i := range limits {
+		limits[i] = defaultLimit
+	}
+	if raw == "" {
+		return limits
+	}
+	for i, part := range strings.Split(raw, ",") {
+		if i >= n {
+			break
+		}
+		if v, err := strconv.Atoi(strings.TrimSpace(part)); err == nil && v > 0 {
+			limits[i] = v
+		}
+	}
+	return limits
+}
+
 func main() {
 	content, err := ioutil.ReadFile("README.md.template")
 	if err != nil {
@@ -79,18 +101,20 @@ func main() {
 
 	text := string(content)
 	blogURLS := os.Getenv("BLOG_URLS")
+	blogLimits := os.Getenv("BLOG_LIMITS")
 
 	urls := strings.Split(blogURLS,",")
+	limits := parseLimits(blogLimits, len(urls))
 
 	data := []Blog{}
 
-	for _, url := range urls {
+	for i, url := range urls {
 		rssItems, title, lang := readFeed(url)
 		blog := Blog{
 			Title: title,
 			Url: url,
 			Language: lang,
-			Items: getFirst(rssItems, 10),
+			Items: getFirst(rssItems, limits[i]),
 		}
 		data = append(data, blog)
 	}
