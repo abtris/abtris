@@ -12,17 +12,17 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 
 
 
-### Posts on Prskavčí blog in cs-CZ
+### Prskavčí blog in cs-CZ
 - [Workflow Engines - Temporal.io](https://blog.prskavec.net/blog/2023/03/workflow-engines-temporal.io/)
 - [Pozor na základní nastavení http klienta v Go (a nejen tam)](https://blog.prskavec.net/blog/2023/01/pozor-na-z%C3%A1kladn%C3%AD-nastaven%C3%AD-http-klienta-v-go-a-nejen-tam/)
 - [You build it, you run it](https://blog.prskavec.net/blog/2023/01/you-build-it-you-run-it/)
 - [GRPC s Buf](https://blog.prskavec.net/blog/2022/12/grpc-s-buf/)
 - [Pipelines as Code](https://blog.prskavec.net/blog/2022/11/pipelines-as-code/)
 - [Webexpo 10-12.6.2022](https://blog.prskavec.net/blog/2022/06/webexpo-10-12.6.2022/)
+- [Příspěvky](https://blog.prskavec.net/posts/)
 - [Nahraďte Docker Desktop pomocí programu Podman na MacOS](https://blog.prskavec.net/blog/2021/09/nahra%C4%8Fte-docker-desktop-pomoc%C3%AD-programu-podman-na-macos/)
 - [Software Development versus Software Engineering](https://blog.prskavec.net/blog/2021/06/software-development-versus-software-engineering/)
 - [Go Embed a jak ho použít](https://blog.prskavec.net/blog/2021/04/go-embed-a-jak-ho-pou%C5%BE%C3%ADt/)
-- [Site Reliable Engineering (SRE) a DevOPS](https://blog.prskavec.net/blog/2021/02/site-reliable-engineering-sre-a-devops/)
 
 
 
@@ -37,6 +37,20 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 - [The Future of Continuous Integration Engines](https://www.prskavec.net/post/the-future-of-continuous-integration-engines/)
 - [Grafana dashboards and Jsonnet](https://www.prskavec.net/post/grafana-jsonnet/)
 - [Updating README in Github personal repository](https://www.prskavec.net/post/github-personal-repo/)
+
+
+
+### Talks on Prskavec.Net in en
+- [Under the Hood of AI: Building Your Own MCP Server in Go](https://www.prskavec.net/talk/2026-05-27-webexpo/)
+- [From Small Terraform Projects to Terralith](https://www.prskavec.net/talk/2025-04-23-cloudnative/)
+- [Bubble Tea - how to make better terminal UI](https://www.prskavec.net/talk/2024-04-23-go-meetups/)
+- [OpenTelemetry as best way how to instrument your CICD pipeline](https://www.prskavec.net/talk/2023-09-27-cloudnative/)
+- [How we run stateful services for customers in Kubernetes](https://www.prskavec.net/talk/2023-05-11-cloudnative/)
+- [CI pipelines should be code! Dagger Go SDK](https://www.prskavec.net/talk/2022-11-30-dagger-go-sdk/)
+- [Getting started with fuzzing](https://www.prskavec.net/talk/2022-05-31-fuzzing/)
+- [Compliance as Code](https://www.prskavec.net/talk/2020-01-23-itsml/)
+- [JAMStack in 2019](https://www.prskavec.net/talk/2019-11-01-reactiveconf/)
+- [TinyGo](https://www.prskavec.net/talk/2019-08-04-tinygo/)
 
 
 
