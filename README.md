@@ -41,6 +41,7 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 
 
 ### Talks on Prskavec.Net in en
+- [How to Make an MCP Server in Go](https://www.prskavec.net/talk/2026-06-12-techspresso/)
 - [Under the Hood of AI: Building Your Own MCP Server in Go](https://www.prskavec.net/talk/2026-05-27-webexpo/)
 - [From Small Terraform Projects to Terralith](https://www.prskavec.net/talk/2025-04-23-cloudnative/)
 - [Bubble Tea - how to make better terminal UI](https://www.prskavec.net/talk/2024-04-23-go-meetups/)
@@ -50,7 +51,6 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 - [Getting started with fuzzing](https://www.prskavec.net/talk/2022-05-31-fuzzing/)
 - [Compliance as Code](https://www.prskavec.net/talk/2020-01-23-itsml/)
 - [JAMStack in 2019](https://www.prskavec.net/talk/2019-11-01-reactiveconf/)
-- [TinyGo](https://www.prskavec.net/talk/2019-08-04-tinygo/)
 
 
 
