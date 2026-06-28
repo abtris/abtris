@@ -27,6 +27,7 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 
 
 ### Posts on Prskavec.Net in en
+- [How I Use Logseq as a Personal Knowledge Base](https://www.prskavec.net/post/how-i-use-logseq-as-a-personal-knowledge-base/)
 - [Agent Harnesses: Why You Shouldn't Bet Your Company on Claude Code or Codex](https://www.prskavec.net/post/agent-harnesses/)
 - [Schema-First Telemetry in Go: A New Approach to Observability](https://www.prskavec.net/post/schema_first_telemetry/)
 - [Build nice terminal UI with Bubble Tea](https://www.prskavec.net/post/bubbletea/)
@@ -36,7 +37,6 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are inter
 - [Pipelines as Code](https://www.prskavec.net/post/pipelines_as_code/)
 - [How to make the perfect Grafana dashboard?](https://www.prskavec.net/post/how-to-make-perfect-grafana-dashboard/)
 - [The Future of Continuous Integration Engines](https://www.prskavec.net/post/the-future-of-continuous-integration-engines/)
-- [Grafana dashboards and Jsonnet](https://www.prskavec.net/post/grafana-jsonnet/)
 
 
 
