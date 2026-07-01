@@ -12,7 +12,7 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), so if you are in
 
 {{range .}}
 
-### {{.Title}} in {{.Language}}
+{{if contains .Url "/talk/"}}### 🎤 Talks{{else if contains .Url "/post/"}}### ✍️ Writing{{else}}### {{.Title}} in {{.Language}}{{end}}
 {{range .Items}}- {{.}}{{end}}
 {{end}}
 

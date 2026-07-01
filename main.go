@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/xml"
 	"fmt"
+	"io"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -119,12 +120,17 @@ func main() {
 		data = append(data, blog)
 	}
 
-	t, err := template.New("readme").Parse(text)
-	if err != nil {
+	if err := render(os.Stdout, text, data); err != nil {
 		log.Fatal(err)
 	}
-	err = t.Execute(os.Stdout, data)
+}
+
+func render(w io.Writer, tmpl string, data []Blog) error {
+	t, err := template.New("readme").Funcs(template.FuncMap{
+		"contains": strings.Contains,
+	}).Parse(tmpl)
 	if err != nil {
-		log.Fatal(err)
+		return err
 	}
+	return t.Execute(w, data)
 }

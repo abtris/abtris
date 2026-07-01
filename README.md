@@ -26,7 +26,7 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), so if you are in
 
 
 
-### Posts on Prskavec.Net in en
+### ✍️ Writing
 - [How I Use Logseq as a Personal Knowledge Base](https://www.prskavec.net/post/how-i-use-logseq-as-a-personal-knowledge-base/)
 - [Agent Harnesses: Why You Shouldn't Bet Your Company on Claude Code or Codex](https://www.prskavec.net/post/agent-harnesses/)
 - [Schema-First Telemetry in Go: A New Approach to Observability](https://www.prskavec.net/post/schema_first_telemetry/)
@@ -40,7 +40,7 @@ I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), so if you are in
 
 
 
-### Talks on Prskavec.Net in en
+### 🎤 Talks
 - [How to Make an MCP Server in Go](https://www.prskavec.net/talk/2026-06-12-techspresso/)
 - [Under the Hood of AI: Building Your Own MCP Server in Go](https://www.prskavec.net/talk/2026-05-27-webexpo/)
 - [From Small Terraform Projects to Terralith](https://www.prskavec.net/talk/2025-04-23-cloudnative/)
