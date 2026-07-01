@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I am **Ladislav Prskavec**, a Software Engineer and SRE based in Prague
+I am **Ladislav Prskavec** — a software engineer and SRE focused on the small operational habits that keep production systems quiet: on-call hygiene, observability, and writing infrastructure that doesn't surprise you at 3am.
 
 [![Homepage][web-image]](https://www.prskavec.net/)
-[![Blog in Czech][web-image-2]](https://blog.prskavec.net/)
-[![Twitter Follow][twitter-image]](https://twitter.com/abtris)
+[![X Follow][twitter-image]](https://x.com/abtris)
 
 I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), so if you are interested in Go and located near Prague, join our meetup group.
 
-> *I’m really passionate about site reliability engineering. I think the biggest problem for companies today is that they don’t have the SRE engineers they need. I’m helping to find solutions for my company and for others who want to listen.*
+I co-host [You Build It, You Run It](https://ybyr.net/podcast) — a podcast on operating software in production: the discipline, the failure modes, and the people behind the on-call rotation.
+
+> *Software reliability, distributed systems, and one Go meetup.*
 
 
 
