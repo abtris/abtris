@@ -6,9 +6,9 @@ I am **Ladislav Prskavec**, a Software Engineer and SRE based in Prague
 [![Blog in Czech][web-image-2]](https://blog.prskavec.net/)
 [![Twitter Follow][twitter-image]](https://twitter.com/abtris)
 
-I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), if you are interested in Go and you are located near Prague join our meetup group.
+I'm running [Go meetup Prague](https://www.gomeetupprague.cz/), so if you are interested in Go and located near Prague, join our meetup group.
 
-> *I’m really passionate about site reliability engineering. I think the biggest problem for current companies is doesn't have SRE engineers if they need it. I’m helping to find solutions for my company and others who can listen*
+> *I’m really passionate about site reliability engineering. I think the biggest problem for companies today is that they don’t have the SRE engineers they need. I’m helping to find solutions for my company and for others who want to listen.*
 
 
 
