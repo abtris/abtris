@@ -14,6 +14,7 @@ I co-host [You Build It, You Run It](https://ybyr.net/podcast) — a podcast on 
 
 
 ### ✍️ Writing
+- [My Dotfiles and the Tools I Use (2026 Edition)](https://www.prskavec.net/post/my-dotfiles-and-the-tools-i-use/)
 - [A Knowledge Format Is Not a Knowledge Base](https://www.prskavec.net/post/a-knowledge-format-is-not-a-knowledge-base/)
 - [How I Use Logseq as a Personal Knowledge Base](https://www.prskavec.net/post/how-i-use-logseq-as-a-personal-knowledge-base/)
 - [Agent Harnesses: Why You Shouldn't Bet Your Company on Claude Code or Codex](https://www.prskavec.net/post/agent-harnesses/)
@@ -23,7 +24,6 @@ I co-host [You Build It, You Run It](https://ybyr.net/podcast) — a podcast on 
 - [OpenTelemetry and Go Gin Framework](https://www.prskavec.net/post/otel-gin-go/)
 - [Watch out for basic HTTP client settings in Go](https://www.prskavec.net/post/watch_out_for_basic_http_client_settings_in_go/)
 - [Pipelines as Code](https://www.prskavec.net/post/pipelines_as_code/)
-- [How to make the perfect Grafana dashboard?](https://www.prskavec.net/post/how-to-make-perfect-grafana-dashboard/)
 
 
 
