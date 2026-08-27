@@ -14,6 +14,7 @@ I co-host [You Build It, You Run It](https://ybyr.net/podcast) — a podcast on 
 
 
 ### ✍️ Writing
+- [Merge queues, and the API GitHub only exposes over GraphQL](https://www.prskavec.net/post/merge-queues-and-the-graphql-only-api/)
 - [Finding and fixing memory leaks in Go](https://www.prskavec.net/post/finding-and-fixing-memory-leaks-in-go/)
 - [My Dotfiles and the Tools I Use (2026 Edition)](https://www.prskavec.net/post/my-dotfiles-and-the-tools-i-use/)
 - [A Knowledge Format Is Not a Knowledge Base](https://www.prskavec.net/post/a-knowledge-format-is-not-a-knowledge-base/)
@@ -23,7 +24,6 @@ I co-host [You Build It, You Run It](https://ybyr.net/podcast) — a podcast on 
 - [Build nice terminal UI with Bubble Tea](https://www.prskavec.net/post/bubbletea/)
 - [Exploring Terramate - A Solution to Terraform Orchestration Challenges](https://www.prskavec.net/post/exploring-terramate/)
 - [OpenTelemetry and Go Gin Framework](https://www.prskavec.net/post/otel-gin-go/)
-- [Watch out for basic HTTP client settings in Go](https://www.prskavec.net/post/watch_out_for_basic_http_client_settings_in_go/)
 
 
 
